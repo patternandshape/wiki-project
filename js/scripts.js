@@ -3,7 +3,7 @@ $(document).ready(function() {
 
   pagetitles.forEach(function(pagetitle) {
     var linktitle = pagetitle;
-    noDashLinkTitle = (linktitle).replace("-", " ");
+    noDashLinkTitle = (linktitle).replace(/-/g, " ");
 
     $(".sidebar-nav").append("<li>" + "<a href=" + '"' + pagetitle + ".html" + '"' + ">" + noDashLinkTitle + "</a>" + "</li>")
 

@@ -7,7 +7,7 @@
 }
 
 .jumbotron {
-  background-color: #305FD0;
+  background-color: #B12D15;
   color: #fff;
 }
 
@@ -28,4 +28,21 @@
 .nostyle:hover {
   text-decoration: none;
   color: #FFF;
+}
+
+a {
+    color: #740F1A;
+}
+
+li {
+  margin: 0.5em 0;
+}
+
+.sidebar-wrapper {
+  position: absolute;
+}
+
+.examplejumbo {
+  background-color: #C0BD85;
+  color: #000;
 }
