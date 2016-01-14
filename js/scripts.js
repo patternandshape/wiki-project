@@ -3,7 +3,7 @@ $(document).ready(function() {
 
   pagetitles.forEach(function(pagetitle) {
     var linktitle = $(pagetitle);
-    $("ul").append("<li>" + pagetitle + "<a href=" + pagetitle + ".html>" + "</a>" + "</li>")
+    $("ul").append("<li>" + "<a href=" + '"' + pagetitle + ".html" + '"' + ">" + pagetitle + "</a>" + "</li>")
 
   });
 });
