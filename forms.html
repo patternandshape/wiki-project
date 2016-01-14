@@ -35,17 +35,29 @@
 
           <div class="panel panel-default">
             <div class="panel-body examplebox">
-              <p><form>
+              <p>
+                <div id="blobs">
+                      <form>
+                      <div class="form-group">
 
-First name:<br>
+      <label for="firstName">First Name</label>
+      <input type="text" class="form-control" id="firstName" placeholder="First Name">
 
-<input type="text" name="firstname"><br>
+      <label for="lastName">Last Name</label>
+      <input type="text" class="form-control" id="lastName" placeholder="Last Name">
+      <button type="submit" class="btn btn-danger">Submit</button>
+      </form>
+    </div>
+  </p>
+</div>
+              <div id="userInfo">
+                <p>
+                  Hi <span class="firstName"> </span> <span class="lastName"></span>!
+                  <br>
+                <img src="img/siamese.jpg" alt="Lord Summerisle" />
 
-Last name:<br>
-
-<input type="text" name="lastname">
-
-</form></p>
+                </p>
+              </div>
             </div>
           </div>
         </div>

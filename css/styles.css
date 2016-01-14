@@ -46,3 +46,10 @@ li {
   background-color: #C0BD85;
   color: #000;
 }
+.btn {
+  margin-top: 20px;
+}
+
+#userInfo {
+  display:none;
+}
