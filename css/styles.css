@@ -1,0 +1,25 @@
+.panel-custom {
+  background-color: #D48E09;
+  padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.jumbotron {
+  background-color: #305FD0;
+  color: #fff;
+}
+
+.codebox {
+  background-color: #B6CFD1;
+  color: #006600;
+}
+
+code !important {
+  background-color: #B6CFD1;
+}
+
+.examplebox {
+  background-color: ##d0e0e1;
+}
