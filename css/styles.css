@@ -11,6 +11,10 @@
   color: #fff;
 }
 
+.jumbotron h1 {
+  font-size: 48px;
+}
+
 .codebox {
   background-color: #B6CFD1;
   color: #006600;
