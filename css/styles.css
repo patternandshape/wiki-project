@@ -16,10 +16,16 @@
   color: #006600;
 }
 
-.code !important {
-  background-color: #B6CFD1;
-}
-
 .examplebox {
   background-color: ##d0e0e1;
+}
+
+.nostyle {
+  text-decoration: none;
+  color: #FFF;
+}
+
+.nostyle:hover {
+  text-decoration: none;
+  color: #FFF;
 }
