@@ -1,20 +1,24 @@
 # Epicodus Wiki Page
 
-#### This is a webpage about programming terminology used at Epicodus thus far , January 14, 2016.
+January 14, 2016
 
-#### By Torrence Stratton and Molly Curtin
+##### By Molly Curtin &amp; Torrence Stratton
 
-## Description
-This webpage will inform you of Epicodus content for week 2.
+### Description
 
-#### Technology used:
-* Atom
-* Terminal
+This is a webpage about programming terminology used at Epicodus thus far.
+
+##### Technologies Used
+
 * HTML
 * CSS
-* Javascript
+* JavaScript
+* jQery
 * Bootstrap
 * DOM manipulation of elements
 
-#### License:
-Copyright (c) 2016 ** Torrence Stratton and Molly Curtin
+##### License
+
+*This software is licensed under the MIT license.*
+
+&copy;2016 **Molly Curtin &amp; Torrence Stratton**
